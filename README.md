@@ -55,6 +55,14 @@
 
 ###
 
+<h2 align="left">DSA Stats</h2>
+
+###
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/mohammedfaaris2005?theme=nord)
+
+###
+
 <img src="https://raw.githubusercontent.com/Mohamed-faaris/Mohamed-faaris/output/snake.svg" alt="Snake animation" />
 
 ###
