@@ -57,9 +57,19 @@
 
 <h2 align="left">DSA Stats</h2>
 
-###
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/mohammedfaaris2005?theme=nord)
+<div align="center">
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/mohammedfaaris2005?theme=nord" alt="Leetcode Stats" />
+  
+  <br> <!-- Line break for spacing -->
+
+  <!-- GeeksforGeeks Stats -->
+  <a href="https://www.geeksforgeeks.org/user/mohammedfav2xu/">
+    <img src="https://gfgstatscard.vercel.app/mohammedfav2xu" alt="GFG stats" />
+  </a>
+</div>
+
 
 ###
 
