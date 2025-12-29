@@ -44,35 +44,6 @@
 
 ###
 
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-faaris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-faaris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<!-- <h2 align="left">DSA Stats</h2>
-
-
-<div align="center">
-  <!-- LeetCode Stats -->
-  <img src="https://leetcard.jacoblin.cool/mohammedfaaris2005?theme=nord" alt="Leetcode Stats" />
-  
-  <br> <!-- Line break for spacing -->
-
-  <!-- GeeksforGeeks Stats -->
-  <a href="https://www.geeksforgeeks.org/user/mohammedfav2xu/">
-    <img src="https://gfgstatscard.vercel.app/mohammedfav2xu" alt="GFG stats" />
-  </a>
-</div> -->
-
-
-###
-
 <img src="https://raw.githubusercontent.com/Mohamed-faaris/Mohamed-faaris/output/snake.svg" alt="Snake animation" /> 
 
 ###
